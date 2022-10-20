@@ -10,20 +10,20 @@
 ### Version - V1.0
 
 # Insights:
-- This calculator will find the stop loss that will be triggered the least for the seletected period, based on the asset volatility. 
+- This calculator will find the stop loss that will be triggered the least for the selected period, based on the asset volatility. 
 - This doesn't mean you can't be stopped several consecutive days, it only considers day by day Max and Min prices and not periods. 
 
 ### Goals:
 - To find the best stop loss percentage based on volatility 
 
 ### Version Updates:
-- Relatory 
+- Report
 
 
 ### Future Implementations: 
-- Add total Days Count to relatory 
+- Add total Days Count to report
 - Add to any Quantitative Trading model 
-- Considerations about Close price versus Being Stoped - what's the difference? 
+- Considerations about Close price versus being stopped - what's the difference? 
 
 
 ### Author - Luiz Gabriel Bongiolo
