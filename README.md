@@ -7,7 +7,7 @@
 - Python / Excel 
 15-07-2022
 
-### Version - V1.0
+# Version - V1.0
 
 # Insights:
 - This calculator will find the stop loss that will be triggered the least for the selected period, based on the asset volatility. 
